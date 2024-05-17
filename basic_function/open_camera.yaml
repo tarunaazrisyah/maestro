@@ -1,0 +1,5 @@
+appId: com.android.camera2
+---
+- launchApp
+- assertVisible:
+    id: "com.android.camera2:id/shutter_button"
